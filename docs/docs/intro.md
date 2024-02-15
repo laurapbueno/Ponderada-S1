@@ -8,7 +8,7 @@ slug: /
 
 ## Contato
 
-- **Mobile:** (41) 99764 - 8921
+- **Mobile:** (41) 99764-8921
 - **E-mail:** laurapadilhabueno@hotmail.com
 - **E-mail:** laura.bueno@sou.inteli.edu.br
 
