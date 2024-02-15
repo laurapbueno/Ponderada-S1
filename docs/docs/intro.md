@@ -1,47 +1,48 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Laura Bueno
+#### 18 anos, São Paulo - SP
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Contato
 
-## Getting Started
+- **Mobile:** (41) 99764 - 8921
+- **E-mail:** laurapadilhabueno@hotmail.com
+- **E-mail:** laura.bueno@sou.inteli.edu.br
 
-Get started by **creating a new site**.
+## Idiomas
+- **Português:** Nativo
+- **Inlgês:** Avançado
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Habilidades
+- **Pacote Office:** Intermediário
+- **Sony Vegas:** Avançado
+- **Front-end:** Intermediário
 
-### What you'll need
+## Rede Social
+- **LinkedIn:** [Laura Bueno](https://www.linkedin.com/in/laura-padilha-bueno-b358419a/)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Sobre Mim
 
-## Generate a new site
+Graduando Engenharia da Computação no Inteli - faculdade que, além de estudar T.I, proporciona aulas de Negócios e UX -, quero adquirir experiência profissional nas três áreas que estudo.
 
-Generate a new Docusaurus site using the **classic template**.
+## Formação
+- **Ensino Médio:** Seb Dom Bosco | 2019 - 2022
+  - Formação em instituição privada através de uma bolsa de estudos integral
+- **Engenharia da Computação:** Inteli | 2023 - 2026
+  - Faculdade com bolsa integral
 
-The classic template will automatically be added to your project after you run the command:
+## Experiência Profissional
+- **Estágio de Férias:** BTG Pactual | 2023
+  - Estágio de férias na área de IT Banking - Onboarding
+- **Estágio de Férias:** BTG Pactual | 2024
+  - Estágio de férias na área de IT Products 
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Cursos e Outros
+- **Excel:** Bom aluno | Julho 2019
+  - Aprendizado de conceitos intermediários sobre Excel
+- **Língua Inglesa:** Legacy | Setembro 2017 - Dezembro 2023
+  - Certificado Toefls
+- **GitHub:** [Acesse meus repositórios](https://github.com/laurapbueno)
