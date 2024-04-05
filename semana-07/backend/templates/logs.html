@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logs</title>
+    <style>
+        /* Estilo para a linha preta */
+        .hr {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Logs</h1>
+        <div class="logs">
+            {% for log in logs %}
+                <p><strong>Log ID: </strong>{{ loop.index }}</p>
+                <p>Comando: {{ log["comando"] }}</p>
+                <p>Data e hora: {{ log["data_hora"] }}</p>
+                <p>Coordenadas (x, y, z): {{ log["x"] }}, {{ log["y"] }}, {{ log["z"] }}</p>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
